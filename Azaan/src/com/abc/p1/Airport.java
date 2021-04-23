@@ -8,6 +8,7 @@ public class Airport {
 		ref.land();
 		ref.demo();
 		System.out.println("-----------------");
+		System.out.println("");
 	}
 
 }
